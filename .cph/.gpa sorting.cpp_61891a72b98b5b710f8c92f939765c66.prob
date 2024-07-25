@@ -1,0 +1,1 @@
+{"name":"Local: gpa sorting","url":"d:\\Desktop\\test\\Test\\gpa sorting.cpp","tests":[{"id":1721709349870,"input":"5\nkhag \n5.1\nminh\n 2.4\nvan \n2.5\nkhanh\n 3.4\ndanh\n 3.2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\test\\Test\\gpa sorting.cpp","group":"local","local":true}

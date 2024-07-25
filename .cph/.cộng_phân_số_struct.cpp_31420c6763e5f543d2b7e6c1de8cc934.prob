@@ -1,0 +1,1 @@
+{"name":"Local: cộng_phân_số_struct","url":"d:\\Desktop\\test\\Test\\cộng_phân_số_struct.cpp","tests":[{"id":1721707130319,"input":"2 3 \n4 5\n8 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\test\\Test\\cộng_phân_số_struct.cpp","group":"local","local":true}

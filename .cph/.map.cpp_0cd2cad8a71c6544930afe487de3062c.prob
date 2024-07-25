@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"d:\\Desktop\\test\\map.cpp","tests":[{"id":1720923308051,"input":"8\n2 4 6 7 6 1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\test\\map.cpp","group":"local","local":true}
